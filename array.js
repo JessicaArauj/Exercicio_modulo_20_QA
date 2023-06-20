@@ -21,3 +21,4 @@ function indexMinMax(arr) {
   console.log(`Índice do menor valor: ${indexMin}`); 
   console.log(`Índice do maior valor: ${indexMax}`); 
   
+  module.exports = { indexMinMax }
